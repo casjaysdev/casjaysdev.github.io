@@ -85,7 +85,7 @@ the above addresses or phone number.
 
 Most sites on this server also make use of a tracking system. the use of such software  
 allows us to collect such data as Operating System, Browser, and IP Address. you can opt-out  
-of Casjays Developments tracking by going to the [opt out page](http://piwik.casjay.net/index.php?module=CoreAdminHome&action=optOut)
+of Casjays Developments tracking by going to the [opt out page](http://piwik.casjay.pro/index.php?module=CoreAdminHome&action=optOut)
 
 Google Analytics Privacy Policy can be found at [http://www.google.com/intl/en/analytics/privacyoverview.html](http://www.google.com/intl/en/analytics/privacyoverview.html)  
 You can also opt-out of Google Tracking by going to [https://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/)  
